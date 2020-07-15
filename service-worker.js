@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/abtestreal-client/precache-manifest.4a122ef89f60db0e9086e050492e5729.js"
+  "/abtestreal-client/precache-manifest.80ba54b0879a66960e23666442454a8b.js"
 );
 
 self.addEventListener('message', (event) => {
