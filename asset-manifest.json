@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/abtestreal-client/static/css/main.3685e888.chunk.css",
+    "main.js": "/abtestreal-client/static/js/main.6c27b5ef.chunk.js",
+    "main.js.map": "/abtestreal-client/static/js/main.6c27b5ef.chunk.js.map",
+    "runtime-main.js": "/abtestreal-client/static/js/runtime-main.e612c562.js",
+    "runtime-main.js.map": "/abtestreal-client/static/js/runtime-main.e612c562.js.map",
+    "static/js/2.a2469df7.chunk.js": "/abtestreal-client/static/js/2.a2469df7.chunk.js",
+    "static/js/2.a2469df7.chunk.js.map": "/abtestreal-client/static/js/2.a2469df7.chunk.js.map",
+    "index.html": "/abtestreal-client/index.html",
+    "precache-manifest.4a122ef89f60db0e9086e050492e5729.js": "/abtestreal-client/precache-manifest.4a122ef89f60db0e9086e050492e5729.js",
+    "service-worker.js": "/abtestreal-client/service-worker.js",
+    "static/css/main.3685e888.chunk.css.map": "/abtestreal-client/static/css/main.3685e888.chunk.css.map",
+    "static/js/2.a2469df7.chunk.js.LICENSE.txt": "/abtestreal-client/static/js/2.a2469df7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e612c562.js",
+    "static/js/2.a2469df7.chunk.js",
+    "static/css/main.3685e888.chunk.css",
+    "static/js/main.6c27b5ef.chunk.js"
+  ]
+}
