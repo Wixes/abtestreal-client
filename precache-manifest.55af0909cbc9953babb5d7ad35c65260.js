@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10b8aaa238d9919f12b2eb60c36075f1",
+    "revision": "970e9dde14ed7d10339e961e8c7b6364",
     "url": "/abtestreal-client/index.html"
   },
   {
-    "revision": "63cdf904562dce6f8f43",
+    "revision": "07042d6b2f2182cac589",
     "url": "/abtestreal-client/static/css/main.3685e888.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abtestreal-client/static/js/2.a2469df7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63cdf904562dce6f8f43",
-    "url": "/abtestreal-client/static/js/main.05dadafe.chunk.js"
+    "revision": "07042d6b2f2182cac589",
+    "url": "/abtestreal-client/static/js/main.9a22e5a1.chunk.js"
   },
   {
     "revision": "480640d42292f3a08f17",
