@@ -6,7 +6,7 @@ const Table = () => {
     const [itemList, setItemList] = useState([]);
 
     const fetchData = async () => {
-        const res = await fetch('https://abtestreal-server.herokuapp.com/api');
+        const res = await fetch('https://cors-anywhere.herokuapp.com/https://abtestreal-server.herokuapp.com/api');
         res.json()
             .then(data => setItemList(data))
             .catch(err => console.log('Cannot get data, error: ', err));
